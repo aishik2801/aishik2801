@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m Aishik Biswas, building intelligent systems on top of Generative AI. My work revolves around designing AI agents that don’t just respond, but plan, retrieve context through RAG pipelines, and execute structured workflows. I experiment with MCP-based architectures to enable tool use, memory, and multi-step reasoning. I’m particularly interested in making LLM systems reliable — improving grounding, reducing hallucinations, and turning probabilistic models into deterministic, production-ready systems.
-
+I’m Aishik Biswas, exploring the engineering side of Generative AI. I build AI agents, experiment with RAG pipelines, and design structured workflows that extend LLM capabilities beyond basic prompting. I’m currently focused on understanding MCP-based architectures, tool integration, memory systems, and how to make AI systems more grounded and reliable. My goal is to move from experimental prototypes to robust, production-ready intelligent systems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aishikkk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aishikbiswas28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aishik883@gmail.com) 
