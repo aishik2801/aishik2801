@@ -5,7 +5,7 @@ I’m Aishik Biswas, exploring the engineering side of Generative AI. I build AI
 - 📫 How to reach me **aishik883@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/aishikbiswas28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishikbiswas28" height="30" width="40" /></a>
 </p>
 
